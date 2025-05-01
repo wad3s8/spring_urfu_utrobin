@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring_urfu_utrobin
+
+app:
+  name: "aaa"
+  values:
+    - "1"
+
+environment: "${EXAMPLE_TEST:default}"
